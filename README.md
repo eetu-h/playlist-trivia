@@ -1,6 +1,6 @@
 # playlist-trivia
 
-Playlist-trivia in a nutshell: Create a Spotify playlist and link questions and answers to each song. The combination of songs, questions, and answers forms a music quiz. These quizzes are available on a public portal where peoples can search, play, and rate them.
+Playlist-trivia in a nutshell: Create a Spotify playlist and link questions and answers to each song. The combination of songs, questions, and answers forms a music quiz. These quizzes are available on a public portal where people can search, play, and rate them.
 
 Playlist-trivia also includes a webpage or app that lets you play the quiz. It acts as a Spotify controller, allowing you to manage the quiz, play songs in the background without revealing their titles, and even play alone.
 
