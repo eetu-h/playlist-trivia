@@ -1,19 +1,25 @@
 # playlist-trivia
 
-Playlist-trivia in a nutshell: Create a Spotify playlist and link questions and answers to each song. The combination of songs, questions, and answers forms a music quiz. These quizzes are available on a public portal where people can search, play, and rate them.
+Playlist-trivia in a nutshell: Create a playlist and link questions and answers to each song. This combination forms a music quiz, available on a public portal where users can search, play, and rate them.
 
-Playlist-trivia also includes a webpage or app that lets you play the quiz. It acts as a Spotify controller, allowing you to manage the quiz, play songs in the background without revealing their titles, and even play alone.
+Playlist-trivia also includes a webpage or app that lets you play the quiz, acting as a controller with links to songs that open in apps like Spotify and YouTube.
 
-The quizzes will also include details about the genre, countries, decades, and other relevant information.
+Quizzes will feature details about the genre, countries, decades, and other relevant information.
 
-## The quiz questions and options
+Initially, the plan was to use the Spotify Web API to control Spotify, but their terms of service prohibit using the API for quiz applications.
 
-The types of questions allowed are yet to be decided. Potential question types could include: "Who is the artist?" and "What is the song name?" These questions could be answered either through free text input or multiple-choice options (a, b, c, d).
+## Quiz Questions and Options
 
-## Language support
+The types of questions are yet to be finalized. Possible question types include: "Who is the artist?" and "What is the song name?" Answers could be provided via free text input or multiple-choice options (a, b, c, d).
 
-Initially, only English will be supported. Additional languages may be added in future phases.
+## Language Support
+
+Initially, only English will be supported, with additional languages potentially added in future phases.
 
 ## Monetization
 
-The primary goal of playlist-trivia is to facilitate the creation, sharing, and enjoyment of music quizzes. While the platform aims to remain free and easily accessible, there may be opportunities for monetization through advertisements in the future. However, generating revenue is not the main focus at this stage.
+The primary goal of playlist-trivia is to facilitate the creation, sharing, and enjoyment of music quizzes. While aiming to remain free and accessible, there may be monetization opportunities, including:
+
+1. Offering a limited number of official playlists for free, with community-created and additional official playlists accessible via subscription.
+2. Offering one free playlist each month, with an additional small fee (e.g., 1 euro) for each subsequent playlist use.
+3. Providing a free version with ads and a paid, ad-free version.
